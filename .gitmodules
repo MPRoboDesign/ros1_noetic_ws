@@ -1,0 +1,147 @@
+[submodule "src/ros"]
+	path = src/ros
+	url = https://github.com/ros/ros.git
+[submodule "src/actionlib"]
+	path = src/actionlib
+	url = https://github.com/ros/actionlib.git
+[submodule "src/common_msgs"]
+	path = src/common_msgs
+	url = https://github.com/ros/common_msgs.git
+[submodule "src/actionlib_tutorials"]
+	path = src/actionlib_tutorials
+	url = https://github.com/MariaC27/actionlib_tutorials.git
+[submodule "src/angles"]
+	path = src/angles
+	url = https://github.com/ros/angles.git
+	branch = master
+[submodule "src/bond_core"]
+	path = src/bond_core
+	url = https://github.com/ros/bond_core.git
+[submodule "src/class_loader"]
+	path = src/class_loader
+	url = https://github.com/ros/class_loader.git
+	branch = noetic-devel
+[submodule "src/control_msgs"]
+	path = src/control_msgs
+	url = https://github.com/ros-controls/control_msgs.git
+	branch = kinetic-devel
+[submodule "src/vision_opencv"]
+	path = src/vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
+	branch = noetic
+[submodule "src/diagnostics"]
+	path = src/diagnostics
+	url = https://github.com/ros/diagnostics.git
+	branch = noetic-devel
+[submodule "src/dynamic_reconfigure"]
+	path = src/dynamic_reconfigure
+	url = https://github.com/ros/dynamic_reconfigure.git
+	branch = noetic-devel
+[submodule "src/geometry"]
+	path = src/geometry
+	url = https://github.com/ros/geometry.git
+	branch = noetic-devel
+[submodule "src/filters"]
+	path = src/filters
+	url = https://github.com/ros/filters.git
+	branch = noetic-devel
+[submodule "src/image_common"]
+	path = src/image_common
+	url = https://github.com/ros-perception/image_common.git
+	branch = noetic-devel
+[submodule "src/interactive_markers"]
+	path = src/interactive_markers
+	url = https://github.com/ros-visualization/interactive_markers.git
+	branch = noetic-devel
+[submodule "src/kdl_parser"]
+	path = src/kdl_parser
+	url = https://github.com/ros/kdl_parser.git
+	branch = noetic-devel
+[submodule "src/laser_geometry"]
+	path = src/laser_geometry
+	url = https://github.com/ros-perception/laser_geometry.git
+	branch = kinetic-devel
+[submodule "src/navigation_msgs"]
+	path = src/navigation_msgs
+	url = https://github.com/ros-planning/navigation_msgs.git
+	branch = ros1
+[submodule "src/ros_comm"]
+	path = src/ros_comm
+	url = https://github.com/ros/ros_comm.git
+	branch = noetic-devel
+[submodule "src/nodelet_core"]
+	path = src/nodelet_core
+	url = https://github.com/ros/nodelet_core.git
+	branch = noetic-devel
+[submodule "src/pluginlib"]
+	path = src/pluginlib
+	url = https://github.com/ros/pluginlib.git
+	branch = noetic-devel
+[submodule "src/qt_gui_core"]
+	path = src/qt_gui_core
+	url = https://github.com/ros-visualization/qt_gui_core.git
+	branch = melodic-devel
+[submodule "src/resource_retriever"]
+	path = src/resource_retriever
+	url = https://github.com/ros/resource_retriever.git
+	branch = kinetic-devel
+[submodule "src/robot_state_publisher"]
+	path = src/robot_state_publisher
+	url = https://github.com/ros/robot_state_publisher.git
+	branch = noetic-devel
+[submodule "src/rosconsole"]
+	path = src/rosconsole
+	url = https://github.com/ros/rosconsole.git
+	branch = noetic-devel
+[submodule "src/rosconsole_bridge"]
+	path = src/rosconsole_bridge
+	url = https://github.com/ros/rosconsole_bridge.git
+	branch = kinetic-devel
+[submodule "src/ros_comm_msgs"]
+	path = src/ros_comm_msgs
+	url = https://github.com/ros/ros_comm_msgs.git
+	branch = kinetic-devel
+[submodule "src/rospack"]
+	path = src/rospack
+	url = https://github.com/ros/rospack.git
+	branch = noetic-devel
+[submodule "src/rqt"]
+	path = src/rqt
+	url = https://github.com/ros-visualization/rqt.git
+	branch = kinetic-devel
+[submodule "src/rqt_image_view"]
+	path = src/rqt_image_view
+	url = https://github.com/ros-visualization/rqt_image_view.git
+	branch = master
+[submodule "src/rqt_rviz"]
+	path = src/rqt_rviz
+	url = https://github.com/ros-visualization/rqt_rviz.git
+	branch = melodic-devel
+[submodule "src/rviz"]
+	path = src/rviz
+	url = https://github.com/ros-visualization/rviz.git
+	branch = noetic-devel
+[submodule "src/executive_smach"]
+	path = src/executive_smach
+	url = https://github.com/ros/executive_smach.git
+	branch = noetic-devel
+[submodule "src/std_msgs"]
+	path = src/std_msgs
+	url = https://github.com/ros/std_msgs.git
+	branch = kinetic-devel
+[submodule "src/geometry2"]
+	path = src/geometry2
+	url = https://github.com/ros/geometry2.git
+	branch = noetic-devel
+[submodule "src/common_tutorials"]
+	path = src/common_tutorials
+	url = https://github.com/ros/common_tutorials.git
+	branch = noetic-devel
+[submodule "src/ros_tutorials"]
+	path = src/ros_tutorials
+	url = https://github.com/ros/ros_tutorials.git
+	branch = noetic-devel
+[submodule "src/urdf"]
+	path = src/urdf
+	url = https://github.com/ros/urdf.git
+	branch = melodic-devel
